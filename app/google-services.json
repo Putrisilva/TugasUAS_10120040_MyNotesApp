@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "934193258307",
+    "project_id": "mynotesapp-e31b0",
+    "storage_bucket": "mynotesapp-e31b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934193258307:android:8b31f2708ac89a454e99f6",
+        "android_client_info": {
+          "package_name": "com.putri.mynotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934193258307-78ue32s5khaaonu6sn7rfao2i1i163op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.putri.mynotesapp",
+            "certificate_hash": "e4e8bb45f27d8b1964190749bc66b4037c312c78"
+          }
+        },
+        {
+          "client_id": "934193258307-qe3q7ncvnh79bliu040t5209fs2dt2dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.putri.mynotesapp",
+            "certificate_hash": "0cbaff402a2f9fe11d23c494a721e4e20a122407"
+          }
+        },
+        {
+          "client_id": "934193258307-nb92cuavbnjovg20fn6lkgcn6s64h4p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2qQ6NHgNkeaspd_M06drut7ZSrGfK8SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934193258307-nb92cuavbnjovg20fn6lkgcn6s64h4p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
